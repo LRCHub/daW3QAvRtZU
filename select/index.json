@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "葵橋",
+  "base_artist": "SAYURI",
+  "createdAt": "2026-01-13T23:38:35.257352Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "葵橋",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/01_葵橋_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "葵橋",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/02_葵橋_さユり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "葵橋",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/03_葵橋_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "葵橋",
+      "artist": "Sayuri (さユり)",
+      "has_synced": true,
+      "path": "select/04_葵橋_Sayuri_(さユり).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "葵橋",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_01_葵橋_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "葵橋",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_02_葵橋_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "葵橋",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_03_葵橋_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "葵橋",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_04_葵橋_さユり.txt"
+    }
+  ]
+}
